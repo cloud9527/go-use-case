@@ -4,4 +4,4 @@ go 1.19
 
 require gee v1.0.0
 
-replace gee => ../base3/gee
+//replace gee => ../base3/gee
